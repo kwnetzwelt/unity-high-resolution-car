@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: 0d6365d7e6ccdd542bc541e229555c04
-timeCreated: 1473199114
+guid: b9fe9f43a8ddbf64a9e00e33e4ff8d2b
+timeCreated: 1473273698
 licenseType: Pro
 ModelImporter:
   serializedVersion: 19
@@ -9,7 +9,8 @@ ModelImporter:
     400000: //RootNode
     2300000: //RootNode
     3300000: //RootNode
-    4300000: Circle
+    4300000: Spikes
+    4300002: Lines
     7400000: Default Take
     9500000: //RootNode
   materials:
